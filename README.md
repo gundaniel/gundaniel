@@ -3,8 +3,8 @@
 ## 👋 안녕하세요, 저는 `seogun Kim` 입니다!
 
 ### 🌱 현재 배우고 있는 것  
-- Java와 full stack 📊  
-- React 및 javaScript로 프론트엔드 개발 🚀  
+- Java와 SpringBOOT, JSP로 백엔드 개발 📊  
+- React.js 및 javaScript로 프론트엔드 개발 🚀  
 
 ### 📫 연락처  
 - 이메일: tjrdnjsdla@naver.com
