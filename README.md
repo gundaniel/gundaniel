@@ -8,7 +8,7 @@
 
 ### 📫 연락처  
 - 이메일: tjrdnjsdla@naver.com
-- 블로그: [개설중 추후업로드](https://velog.io/@wons3315/posts)
+- 블로그: [개설중 추후 업로드 예정](https://velog.io/@wons3315/posts)
 
 ⭐️ 이 프로필이 마음에 들었다면 `Star`를 눌러주세요!
 
