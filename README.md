@@ -1,4 +1,4 @@
-## 👋 안녕하세요, 저는 `seogun Kim(Daniel)` 입니다!
+## 👋 안녕하세요, 저는 `seogeon Kim(Daniel)` 입니다!
 
 ### 🌱 현재 배우고 있는 것  
 - Java와 SpringBOOT, JSP로 백엔드 개발(파이썬 공부중) 📊  
