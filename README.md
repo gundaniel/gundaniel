@@ -8,6 +8,7 @@
 ### 📫 연락처  
 - 이메일: tjrdnjsdla@naver.com
 - 블로그: [개설중 추후 업로드 예정(https://velog.io/@wons3315/posts)]
+- Notion: [https://www.notion.so/Home_Space-181b321f6ba380afaeb7fe0294bd3e86?pvs=4]
 
 
 
