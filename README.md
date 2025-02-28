@@ -3,7 +3,7 @@
 ### 🌱 현재 배우고 있는 것  
 - Java와 SpringBOOT, JSP로 백엔드 개발(파이썬 공부중) 📊  
 - React.js 및 javaScript,node.js로 프론트엔드 개발 🚀  
-- kotlin을 통한 1인 앱 개발자가 목적
+- kotlin,ios을 통한 1인 앱 개발자 활동중
 
 ### 📫 연락처  
 - 이메일: tjrdnjsdla@naver.com
